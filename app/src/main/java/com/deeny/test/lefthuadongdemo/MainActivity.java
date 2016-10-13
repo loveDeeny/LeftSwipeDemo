@@ -75,7 +75,6 @@ public class MainActivity extends AppCompatActivity implements AbsListView.OnScr
         });
         snackbar.show();
 
-
     }
 
 
